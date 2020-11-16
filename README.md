@@ -13,7 +13,7 @@ When the application is ran the user will be presented with a button to get star
 </br>
 </br>
 
-![Note Taker UI](https://github.com/njderenne/scheduler/blob/main/assets/images/Capture1.PNG?raw=true)
+![Note Taker UI](https://github.com/njderenne/note_taker//images/Task-Entering.PNG?raw=true)
 
 ## Link to Deployed Application
 
