@@ -104,6 +104,8 @@ const handleNoteView = (e) => {
 const handleNewNoteView = (e) => {
   activeNote = {};
   renderActiveNote();
+  //allows adding a note after viewing an old note
+  location.reload();
 };
 
 const handleRenderSaveBtn = () => {
